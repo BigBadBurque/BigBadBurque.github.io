@@ -1,0 +1,11 @@
+﻿body {
+    font-family: astounder-squared-bb,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: white;
+}
+
+.bg-gradient-bg {
+    background-image: linear-gradient(to right, #32a89b, #f08629 ) !important;
+}
+
